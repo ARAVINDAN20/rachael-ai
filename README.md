@@ -25,7 +25,8 @@ Rachel HR Interview Bot is a cutting-edge, AI-powered interview preparation assi
 NVIDIA's advanced AI technologies and OpenWebUI for a comprehensive interview preparation experience. Developed for the NVIDIA and LlamaIndex Developer Contest, this project combines state-of-the-art language models with robust security features and efficient processing capabilities
 
 This README file provides an in-depth overview of the project, its features, technical details, and instructions for setup and usage.
-
+## YouTube Demo Video
+[Rachel: AI-Powered HR Interview Bot | NVIDIA & LlamaIndex Developer Contest Submission](https://youtu.be/s2ics4GZd-Q?si=nuwlVpq7QLkHbGPr) 
 ## 2.🌟 Key Features
 Rachel HR Interview Bot offers a wide range of features designed to enhance the interview preparation process:
 
