@@ -205,7 +205,8 @@ async def root():
 
 1. **Start the Application**
    [Open WebUI Documentation](https://docs.openwebui.com/troubleshooting/) run this Open WebUI in your system 
-import this [rachel_json_file](https://drive.google.com/file/d/1tJqQUfS0smNcXtZxw1BG4dO09uBbHKUA/view?usp=drive_link) ```bash
+import this [rachel_json_file](https://drive.google.com/file/d/1tJqQUfS0smNcXtZxw1BG4dO09uBbHKUA/view?usp=drive_link)
+   ```bash
    #to run this Demo project in Gradio and connect your API (https://build.nvidia.com/nvidia/llama-3_1-nemotron-70b-instruct)
    python Rachel.py
    ```
